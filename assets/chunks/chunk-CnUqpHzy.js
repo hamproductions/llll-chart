@@ -1,2 +1,0 @@
-import{r as u,k as a}from"./chunk-oNhai74p.js";const d=()=>(e,t)=>t.reduce((o,r)=>{const[n,s]=o,c=r;return s[c]!==void 0&&(n[c]=s[c]),delete s[c],[n,s]},[{},{...e}]);function f(e,t={}){const{sync:o=!1}=t,r=i(e);return u.useCallback((...n)=>o?queueMicrotask(()=>r.current?.(...n)):r.current?.(...n),[o,r])}function i(e){const t=u.useRef(e);return t.current=e,t}const[k,p]=a({name:"FieldContext",hookName:"useFieldContext",providerName:"<FieldProvider />",strict:!1});export{p as a,d as c,f as u};
-//# sourceMappingURL=chunk-CnUqpHzy.js.map
