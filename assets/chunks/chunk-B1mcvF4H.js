@@ -1,2 +1,0 @@
-import{m as n,d as r,s as i,e as p,f as o,g as _}from"./chunk-DGYHhLrr.js";const s=r("input",{size:"md"},[]),a={size:["2xs","xs","sm","md","lg","xl","2xl"]},e=Object.keys(a),m=Object.assign(n(s.recipeFn),{__recipe__:!0,__name__:"input",__getCompoundVariantCss__:s.__getCompoundVariantCss__,raw:t=>t,variantKeys:e,variantMap:a,merge(t){return p(this,t)},splitVariantProps(t){return i(t,e)},getVariantProps:s.getVariantProps}),c=o(_.input,m);export{c as I};
-//# sourceMappingURL=chunk-B1mcvF4H.js.map
