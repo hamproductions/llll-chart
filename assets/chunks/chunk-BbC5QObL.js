@@ -1,0 +1,2 @@
+function e(e){return e.match(/([（(][^()（）]+[）)])+$/u)?.[0]}function t(t,n){if(!n.startsWith(`en`)||!t.englishName)return t.title;let r=e(t.title);return!r||t.englishName.endsWith(r)?t.englishName:`${t.englishName}${r}`}export{t};
+//# sourceMappingURL=chunk-BbC5QObL.js.map
