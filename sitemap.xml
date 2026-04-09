@@ -26,6 +26,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://hamproductions.github.io/llll-chart/203118</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://hamproductions.github.io/llll-chart/304101</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -97,6 +102,11 @@
   </url>
   <url>
     <loc>https://hamproductions.github.io/llll-chart/405134</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hamproductions.github.io/llll-chart/405140</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
